@@ -1,0 +1,6 @@
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\bin\Debug\TernaryOperator2.exe.config
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\bin\Debug\TernaryOperator2.exe
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\bin\Debug\TernaryOperator2.pdb
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\obj\Debug\TernaryOperator2.exe
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\obj\Debug\TernaryOperator2.pdb
+C:\Users\thsyr\source\repos\TernaryOperator2\TernaryOperator2\obj\Debug\TernaryOperator2.csprojAssemblyReference.cache
